@@ -29,7 +29,7 @@ A sleek and modern weather app built with **React Native** using **TypeScript** 
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/anandstephan/WeatherApp.git
 cd weather-app
 
 # Install dependencies
